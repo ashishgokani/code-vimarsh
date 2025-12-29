@@ -217,11 +217,4 @@ Interested in Web Development & System Design
 
 ---
 
-## 📄 License
-
-This project is created for **educational and institutional use**.  
-You are free to use and modify it with proper credits.
-
----
-
 ⭐ If you like this project, don’t forget to **star the repository**!
