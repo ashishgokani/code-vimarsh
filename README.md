@@ -212,8 +212,7 @@ Password: Admin@123
 ## 👨‍💻 Author
 
 **Ashish Gokani**  
-B.Tech CSE Student, MSU Baroda  
-Interested in Web Development & System Design
+B.Tech CSE Student, MSU Baroda
 
 ---
 
